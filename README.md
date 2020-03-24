@@ -1,47 +1,51 @@
-# Gooey Hover Effects on Images with Three.js
+# "Sedna" One Page Website Template
 
-Learn how to create a gooey reveal hover effects on images with Three.js using noise within a shader.
+"Sedna" is a one page website template made by [Peter Finlan](http://peterfinlan.com/) exclusively for Codrops.
 
-![Thumbnail Gooey Hover Effect](https://tympanus.net/codrops/wp-content/uploads/2019/10/ThumbnailGooeyHoverEffect.jpg)
+[Download on Codrops](http://tympanus.net/codrops/?p=24660)
 
-[Article on Codrops](https://tympanus.net/codrops/?p=43947)
-
-[Demo](http://tympanus.net/Tutorials/GooeyImageHoverEffects/)
-
-## Installation
-Run this command in the terminal
-```
-npm install
-```
-
-Compile the code
-```
-npm run build
-```
-
-Compile the code with a local server
-```
-npm run watch
-```
-
-
-## Credits
-
-- Images from [Unsplash](https://unsplash.com)
-- [Three.js](https://threejs.org/docs/)
-- [GSAP from GreenSock](https://greensock.com/)
-- [Smooth Scrollbar](https://idiotwu.github.io/smooth-scrollbar/)
-- [glslify](https://github.com/glslify/glslify)
-- [glsl-noise](https://www.npmjs.com/package/glsl-noise)
+[Demo](http://tympanus.net/Freebies/Sedna/)
 
 ## License
-This resource can be used freely if integrated or build upon in personal or commercial projects such as websites, web apps and web templates intended for sale. It is not allowed to take the resource "as-is" and sell it, redistribute, re-publish it, or sell "pluginized" versions of it. Free plugins built using this resource should have a visible mention and link to the original work. Always consider the licenses of all included libraries, scripts and images used.
+
+Use it freely but please do not republish, distribute or sell "as-is". [Read more about our license.](http://tympanus.net/codrops/licensing/)
+
+## Credits 
+
+### Bootstrap
+
+[Bootstrap](http://getbootstrap.com/) by Twitter. Licensed under [MIT](https://github.com/twbs/bootstrap/blob/master/LICENSE)
+
+### FancyBox
+
+[FancyBox](http://fancyapps.com/fancybox/) by fancyApps. Licensed under [CC BY-NC 3.0](http://creativecommons.org/licenses/by-nc/3.0/)
+
+### FlexSlider
+
+[FlexSlider](http://www.woothemes.com/flexslider/) by WooThemes. Licensed under [GNU GENERAL PUBLIC LICENSE](https://github.com/woothemes/FlexSlider/blob/master/LICENSE.md)
+
+### Waypoints
+
+[Waypoints](https://github.com/imakewebthings/waypoints) by Caleb Troughton. Licensed under [MIT](https://github.com/imakewebthings/waypoints/blog/master/licenses.txt)
+
+### Animate.css
+
+[Animate.css](https://daneden.github.io/animate.css/) by Dan Eden
+
+### Font Awesome Icons 
+
+[Font Awesome](http://fortawesome.github.io/Font-Awesome/) by Dave Gandy. Licensed under [MIT](http://opensource.org/licenses/mit-license.html)
+
+### Elegant Icons 
+
+[Elegant Icons](http://www.elegantthemes.com/blog/resources/elegant-icon-font/) by Elegant Themes. Licensed under [MIT](http://opensource.org/licenses/mit-license.html)
 
 ## Misc
 
-Follow Arno: [Twitter](https://twitter.com/aqro), [Dribbble](https://dribbble.com/Aqro), [Instagram](https://instagram.com/aqro/), [GitHub](https://github.com/Aqro)
+Follow Pete: [Twitter](https://twitter.com/peterfinlan), [Dribbble](http://www.dribbble.com/peterfinlan)
 
-Follow Codrops: [Twitter](http://www.twitter.com/codrops), [Facebook](http://www.facebook.com/codrops), [Google+](https://plus.google.com/101095823814290637419), [GitHub](https://github.com/codrops), [Pinterest](http://www.pinterest.com/codrops/), [Instagram](https://www.instagram.com/codropsss/)
+Follow Codrops: [Twitter](http://www.twitter.com/codrops), [Facebook](http://www.facebook.com/pages/Codrops/159107397912), [Google+](https://plus.google.com/101095823814290637419), [GitHub](https://github.com/codrops), [Pinterest](http://www.pinterest.com/codrops/)
+
+[© Codrops 2015](http://www.codrops.com)
 
 
-[© Codrops 2019](http://www.codrops.com)
