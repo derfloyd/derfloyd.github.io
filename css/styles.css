@@ -7,8 +7,9 @@ Typography
 p {
   font-size: 15px;
   line-height: 29px;
-  color: rgba(28, 54, 83, 0.6);
-  padding-bottom: 20px; }
+  color: rgb(14 1 1);
+  padding-bottom: 20px;
+  font-family: 'Nunito'; }
 
 h1 {
   font-size: 60px; }
