@@ -1162,3 +1162,8 @@ you can use the generic selector below, but it's slower:
 
 .icon-dribbble:before {
   content: "\e063"; }
+.grid-container {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-gap: 20px;
+}
