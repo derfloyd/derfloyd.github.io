@@ -127,8 +127,23 @@ ul li {
   list-style: none; }
 
 .section-padding {
+
   padding: 120px 0; }
 
+  /* For derrickthomas.org*/
+@media only screen and (max-width: 600px) {
+
+    .section-padding
+    {
+      padding: 0px 0px 0px 0px !important; 
+    }
+    .logo-placeholder
+    {
+      padding: 120px 0;
+    }
+    
+    }
+ /* For derrickthomas.org*/
 .tooltip {
   position: absolute;
   z-index: 1070;
